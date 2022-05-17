@@ -1,5 +1,5 @@
 # ProjectiveTransformation
-A program that allows you to compose transformations over a shape: rotation about the XOY, YOZ and ZOX plane and axonometric dimetric projection.
+A C# program that allows you to compose transformations over a shape: rotation about the XOY, YOZ and ZOX plane and axonometric dimetric projection.
 
 ## Technologies used in this project:
 <img align="left" alt="C#.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
